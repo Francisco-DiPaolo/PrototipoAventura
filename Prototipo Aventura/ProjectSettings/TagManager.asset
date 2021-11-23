@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Oro
+  - Enemy
+  - Proyectil
+  - Madera
+  - madera
+  - Mesa
   layers:
   - Default
   - TransparentFX
