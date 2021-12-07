@@ -10,6 +10,9 @@ TagManager:
   - Madera
   - madera
   - Mesa
+  - MesaInv
+  - Oasis
+  - Lake
   layers:
   - Default
   - TransparentFX
